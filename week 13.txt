@@ -1,0 +1,23 @@
+ Basic Array Tasks
+	Create a 1D array of numbers from 0 to 9.
+
+	Create a 3x3 array of all zeros and another of all ones.
+
+	Generate a 4x4 identity matrix.
+
+	Create an array of 10 linearly spaced values between 0 and 5.
+Array Operations
+	Perform element-wise addition, subtraction, and multiplication on two arrays.
+
+	Calculate the sum, mean, standard deviation, and max value of an array.
+
+	Reshape a 1D array of 12 elements into a 3x4 matrix.
+
+	Flatten a 2D array to 1D.
+
+Indexing and Masking
+	Extract all elements greater than 5 from an array.
+
+	Replace all negative numbers in an array with 0 using boolean indexing.
+
+	Slice a 5x5 array to extract a 3x3 center block.
